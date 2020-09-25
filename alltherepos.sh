@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 # A script to cd into every /opt repo and perform a pull to make sure they are updated
 # Git has recently made this a bit more difficult so I wanted to make this an easier
