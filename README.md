@@ -7,6 +7,5 @@ A simple script to cd into every /opt subfolder repository location and make a p
 ## Usage:  
     cd /opt/  
     sudo git clone https://github.com/blindpentester/All-The-Repos.git  
-    cd All-The-Repos  
-    sudo chmod +x alltherepos.sh  
+    cd All-The-Repos   
     sudo ./alltherepos.sh  
